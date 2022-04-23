@@ -8,3 +8,5 @@ npm install
 
 npm run dev
 ```
+## 登录
+初始化用户名密码都是admin
